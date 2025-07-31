@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 import re
 import time
 from typing import Generator, Tuple  # Add for type hinting
+import streamlit as st
 
 # Define the fallback trigger phrase
 FALLBACK_TRIGGER_PHRASE = "Sorry, I couldn’t find an answer to our support database."
