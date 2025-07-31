@@ -2,10 +2,10 @@ import json
 from pathlib import Path
 
 # === File Paths ===
-FAQS_PATH = Path("Assets/faqs.json")
-PRODUCTS_PATH = Path("Assets/products.json")
-POLICIES_PATH = Path("Assets/policies.json")
-OUTPUT_PATH = Path("Assets/chunks.json")
+FAQS_PATH = Path("Source Code/Assets/faqs.json")
+PRODUCTS_PATH = Path("Source Code/Assets/products.json")
+POLICIES_PATH = Path("Source Code/Assets/policies.json")
+OUTPUT_PATH = Path("Source Code/Assets/chunks.json")
 
 # === Step 1: Load JSON files ===
 def load_json(filepath):
