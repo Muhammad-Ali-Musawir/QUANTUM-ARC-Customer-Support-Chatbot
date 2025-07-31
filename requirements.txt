@@ -7,14 +7,3 @@ requests
 python-dotenv
 streamlit
 scikit-learn
-typing
-json
-os
-re
-time
-datetime
-base64
-warnings
-pathlib
-pickle
-
