@@ -1,0 +1,204 @@
+[
+  {
+    "name": "Apple iPhone 15 Pro Max",
+    "category": "Smartphones",
+    "brand": "Apple",
+    "model": "A3109",
+    "price_usd": 1399,
+    "key_features": [
+      "6.7\" Super Retina XDR OLED display",
+      "Apple A17 Pro chip (3nm, 6-core CPU, 6-core GPU)",
+      "8GB RAM",
+      "512GB NVMe storage",
+      "Triple camera: 48MP (main), 12MP (ultrawide), 12MP (periscope telephoto)",
+      "Titanium frame, Face ID, Dynamic Island, USB-C"
+    ]
+  },
+  {
+    "name": "Samsung Galaxy Z Fold5",
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "model": "SM-F946B",
+    "price_usd": 1799,
+    "key_features": [
+      "7.6\" Foldable AMOLED (120Hz) + 6.2\" Cover Display",
+      "Snapdragon 8 Gen 2 for Galaxy (Octa-Core)",
+      "12GB RAM",
+      "1TB UFS 4.0 storage",
+      "Triple camera: 50MP main + 12MP ultrawide + 10MP telephoto",
+      "Flex mode, S-Pen support, water resistance (IPX8)"
+    ]
+  },
+  {
+    "name": "Google Pixel Fold",
+    "category": "Smartphones",
+    "brand": "Google",
+    "model": "G0DZQ",
+    "price_usd": 1799,
+    "key_features": [
+      "7.6\" OLED foldable display + 5.8\" cover screen",
+      "Google Tensor G2 (8-core AI SoC)",
+      "12GB LPDDR5 RAM",
+      "512GB UFS 3.1 storage",
+      "Triple camera: 48MP wide + 10.8MP ultrawide + 10.8MP telephoto",
+      "Android 14 with exclusive Pixel AI features"
+    ]
+  },
+  {
+    "name": "ASUS ROG Strix SCAR 18 (2024)",
+    "category": "Laptops",
+    "brand": "ASUS",
+    "model": "G834JYR-XS97",
+    "price_usd": 3999,
+    "key_features": [
+      "18\" QHD+ Mini LED 240Hz Display",
+      "Intel Core i9-14900HX (24-core, 32-thread)",
+      "64GB DDR5 RAM (5600MHz)",
+      "2TB PCIe 4.0 NVMe SSD",
+      "NVIDIA GeForce RTX 4090 (16GB GDDR6)",
+      "Custom RGB lighting, liquid metal cooling"
+    ]
+  },
+  {
+    "name": "Apple MacBook Pro 16\" (M3 Max)",
+    "category": "Laptops",
+    "brand": "Apple",
+    "model": "MRX33",
+    "price_usd": 4199,
+    "key_features": [
+      "16.2\" Liquid Retina XDR Display (3456x2234)",
+      "Apple M3 Max chip (14-core CPU, 40-core GPU)",
+      "64GB Unified RAM",
+      "2TB SSD",
+      "macOS Sonoma, Studio-grade performance"
+    ]
+  },
+  {
+    "name": "Lenovo Legion Tower 7i Gen 9",
+    "category": "Desktops",
+    "brand": "Lenovo",
+    "model": "90V9CTO1WW",
+    "price_usd": 3499,
+    "key_features": [
+      "Intel Core i9-14900KF (24-core, 32-thread)",
+      "NVIDIA RTX 4090 24GB GDDR6X",
+      "64GB DDR5 6000MHz RAM",
+      "2TB NVMe SSD + 4TB HDD",
+      "ARGB case, 850W PSU, Liquid cooling system",
+      "Windows 11 Pro pre-installed"
+    ]
+  },
+  {
+    "name": "Alienware Aurora R16",
+    "category": "Desktops",
+    "brand": "Dell",
+    "model": "R16-4090",
+    "price_usd": 3899,
+    "key_features": [
+      "Intel Core i9-14900K (24-core)",
+      "NVIDIA RTX 4090 24GB",
+      "64GB DDR5 RAM (6000MHz)",
+      "2TB NVMe Gen4 SSD",
+      "Advanced airflow design, custom RGB",
+      "Wi-Fi 6E, Bluetooth 5.3"
+    ]
+  },
+  {
+    "name": "MSI GeForce RTX 4090 SUPRIM X",
+    "category": "Graphics Cards",
+    "brand": "MSI",
+    "model": "RTX 4090 SUPRIM X 24G",
+    "price_usd": 1999,
+    "key_features": [
+      "NVIDIA Ada Lovelace architecture",
+      "24GB GDDR6X VRAM",
+      "Triple-fan cooling with vapor chamber",
+      "PCIe 4.0, DLSS 3.5, Ray Tracing cores",
+      "4 DisplayPort 1.4a + 1 HDMI 2.1a"
+    ]
+  },
+  {
+    "name": "Intel Core i9-14900K",
+    "category": "Processors",
+    "brand": "Intel",
+    "model": "BX8071514900K",
+    "price_usd": 699,
+    "key_features": [
+      "24 cores (8 Performance + 16 Efficient)",
+      "32 threads, 6.0GHz Turbo Boost",
+      "Raptor Lake Refresh",
+      "Integrated UHD 770 graphics",
+      "Unlocked for overclocking, LGA 1700 socket"
+    ]
+  },
+  {
+    "name": "AMD Ryzen 9 7950X3D",
+    "category": "Processors",
+    "brand": "AMD",
+    "model": "100-100000908WOF",
+    "price_usd": 699,
+    "key_features": [
+      "16 cores / 32 threads",
+      "Base clock: 4.2GHz, Boost up to 5.7GHz",
+      "3D V-Cache for gaming performance",
+      "AM5 socket, PCIe 5.0 support",
+      "5nm Zen 4 architecture"
+    ]
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra (1TB)",
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "model": "SM-S928B/DS",
+    "price_usd": 1599,
+    "key_features": [
+      "6.8\" WQHD+ AMOLED 120Hz",
+      "Snapdragon 8 Gen 3 for Galaxy",
+      "12GB RAM, 1TB UFS 4.0 storage",
+      "Quad Camera: 200MP + 50MP + 10MP + 12MP",
+      "S-Pen included, Titanium frame, IP68"
+    ]
+  },
+  {
+    "name": "Logitech G Pro X Superlight 2",
+    "category": "Accessories",
+    "brand": "Logitech",
+    "model": "910-006724",
+    "price_usd": 159,
+    "key_features": [
+      "Ultra-lightweight (60g)",
+      "Hero 2 sensor with 32K DPI",
+      "1ms Lightspeed wireless",
+      "USB-C rechargeable, 95-hour battery",
+      "Pro-grade clicks, low-latency"
+    ]
+  },
+  {
+    "name": "Razer Huntsman V3 Pro Keyboard",
+    "category": "Accessories",
+    "brand": "Razer",
+    "model": "RZ03-0498",
+    "price_usd": 249,
+    "key_features": [
+      "Analog Optical Switches Gen-2",
+      "Adjustable actuation and rapid trigger",
+      "Aluminum top plate, RGB Chroma backlight",
+      "Detachable Type-C cable",
+      "Tournament mode switch"
+    ]
+  },
+  {
+    "name": "Apple AirPods Max",
+    "category": "Accessories",
+    "brand": "Apple",
+    "model": "A2096",
+    "price_usd": 549,
+    "key_features": [
+      "High-fidelity audio with Apple H1 chips",
+      "Active Noise Cancellation + Transparency Mode",
+      "Memory foam ear cushions",
+      "Up to 20 hours battery life",
+      "Spatial audio with dynamic head tracking"
+    ]
+  }
+]

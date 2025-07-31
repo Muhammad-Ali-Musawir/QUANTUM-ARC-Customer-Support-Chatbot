@@ -1,0 +1,373 @@
+[
+  {
+    "type": "faq",
+    "section": "Orders",
+    "question": "How can I track my order?",
+    "answer": "You can track your order by logging into your Quantum Arc account and navigating to 'My Orders'. Each order has a tracking number and live delivery status.",
+    "content": "Q: How can I track my order?\nA: You can track your order by logging into your Quantum Arc account and navigating to 'My Orders'. Each order has a tracking number and live delivery status."
+  },
+  {
+    "type": "faq",
+    "section": "Orders",
+    "question": "Can I cancel my order after placing it?",
+    "answer": "Yes, you can cancel your order within 1 hour of placing it, provided it hasn't been processed for shipping. Go to 'My Orders' and click on 'Cancel'.",
+    "content": "Q: Can I cancel my order after placing it?\nA: Yes, you can cancel your order within 1 hour of placing it, provided it hasn't been processed for shipping. Go to 'My Orders' and click on 'Cancel'."
+  },
+  {
+    "type": "faq",
+    "section": "Orders",
+    "question": "Can I change my shipping address after placing the order?",
+    "answer": "If your order hasn’t been shipped yet, you can request a shipping address change by contacting our support team immediately through live chat or email.",
+    "content": "Q: Can I change my shipping address after placing the order?\nA: If your order hasn’t been shipped yet, you can request a shipping address change by contacting our support team immediately through live chat or email."
+  },
+  {
+    "type": "faq",
+    "section": "Orders",
+    "question": "My order hasn’t arrived. What should I do?",
+    "answer": "Please check the tracking information under 'My Orders'. If the package is delayed or stuck, contact our support team with your order ID.",
+    "content": "Q: My order hasn’t arrived. What should I do?\nA: Please check the tracking information under 'My Orders'. If the package is delayed or stuck, contact our support team with your order ID."
+  },
+  {
+    "type": "faq",
+    "section": "Payments",
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit/debit cards, PayPal, and bank transfers. Cash on delivery is also available for select locations.",
+    "content": "Q: What payment methods do you accept?\nA: We accept all major credit/debit cards, PayPal, and bank transfers. Cash on delivery is also available for select locations."
+  },
+  {
+    "type": "faq",
+    "section": "Payments",
+    "question": "My payment failed. What should I do?",
+    "answer": "If your payment failed, try a different method or verify your card details. If the issue persists, contact your bank or reach out to our billing support team.",
+    "content": "Q: My payment failed. What should I do?\nA: If your payment failed, try a different method or verify your card details. If the issue persists, contact your bank or reach out to our billing support team."
+  },
+  {
+    "type": "faq",
+    "section": "Payments",
+    "question": "Do you offer EMI or installment options?",
+    "answer": "Yes, EMI options are available for select banks and products. You can view eligibility and terms at checkout.",
+    "content": "Q: Do you offer EMI or installment options?\nA: Yes, EMI options are available for select banks and products. You can view eligibility and terms at checkout."
+  },
+  {
+    "type": "faq",
+    "section": "Account",
+    "question": "I forgot my password. How can I reset it?",
+    "answer": "Click on 'Forgot Password' on the login page. Enter your email, and we’ll send you a reset link immediately.",
+    "content": "Q: I forgot my password. How can I reset it?\nA: Click on 'Forgot Password' on the login page. Enter your email, and we’ll send you a reset link immediately."
+  },
+  {
+    "type": "faq",
+    "section": "Account",
+    "question": "Can I change the email address linked to my account?",
+    "answer": "Yes. Go to 'Account Settings' > 'Edit Email'. You’ll need to verify your new email address to complete the change.",
+    "content": "Q: Can I change the email address linked to my account?\nA: Yes. Go to 'Account Settings' > 'Edit Email'. You’ll need to verify your new email address to complete the change."
+  },
+  {
+    "type": "faq",
+    "section": "Account",
+    "question": "How can I delete my account?",
+    "answer": "Please contact our support team to initiate the account deletion process. We’ll verify your identity before proceeding.",
+    "content": "Q: How can I delete my account?\nA: Please contact our support team to initiate the account deletion process. We’ll verify your identity before proceeding."
+  },
+  {
+    "type": "faq",
+    "section": "Technical Support",
+    "question": "My laptop is not turning on. What should I do?",
+    "answer": "Try holding the power button for 10 seconds. If that doesn't work, unplug the charger, wait 30 seconds, and plug it back in. If it still fails, contact our support team for diagnostics.",
+    "content": "Q: My laptop is not turning on. What should I do?\nA: Try holding the power button for 10 seconds. If that doesn't work, unplug the charger, wait 30 seconds, and plug it back in. If it still fails, contact our support team for diagnostics."
+  },
+  {
+    "type": "faq",
+    "section": "Technical Support",
+    "question": "The speaker I bought has no sound. How can I fix it?",
+    "answer": "Check if it’s properly connected via Bluetooth or cable. Make sure your device’s volume is up. If the issue continues, try a factory reset or contact support.",
+    "content": "Q: The speaker I bought has no sound. How can I fix it?\nA: Check if it’s properly connected via Bluetooth or cable. Make sure your device’s volume is up. If the issue continues, try a factory reset or contact support."
+  },
+  {
+    "type": "faq",
+    "section": "Technical Support",
+    "question": "How can I get technical support after purchase?",
+    "answer": "You can contact our technical team through live chat, email, or phone. We're available from 9 AM to 9 PM (Mon–Sat).",
+    "content": "Q: How can I get technical support after purchase?\nA: You can contact our technical team through live chat, email, or phone. We're available from 9 AM to 9 PM (Mon–Sat)."
+  },
+  {
+    "type": "faq",
+    "section": "Product Information",
+    "question": "Do your laptops come with pre-installed operating systems?",
+    "answer": "Yes, all our laptops come with genuine pre-installed operating systems such as Windows 11 or macOS, depending on the model.",
+    "content": "Q: Do your laptops come with pre-installed operating systems?\nA: Yes, all our laptops come with genuine pre-installed operating systems such as Windows 11 or macOS, depending on the model."
+  },
+  {
+    "type": "faq",
+    "section": "Product Information",
+    "question": "What brands of smartphones do you offer?",
+    "answer": "We offer premium smartphones from Apple, Samsung, Google, OnePlus, and Xiaomi.",
+    "content": "Q: What brands of smartphones do you offer?\nA: We offer premium smartphones from Apple, Samsung, Google, OnePlus, and Xiaomi."
+  },
+  {
+    "type": "faq",
+    "section": "Product Information",
+    "question": "Are your products new or refurbished?",
+    "answer": "Quantum Arc only sells 100% new, sealed, and manufacturer-authorized products. We do not deal in refurbished items.",
+    "content": "Q: Are your products new or refurbished?\nA: Quantum Arc only sells 100% new, sealed, and manufacturer-authorized products. We do not deal in refurbished items."
+  },
+  {
+    "type": "faq",
+    "section": "Product Information",
+    "question": "Can I request a specific product not listed on the website?",
+    "answer": "Yes, you can contact us with your specific request and we’ll try to arrange it from our partner vendors if available.",
+    "content": "Q: Can I request a specific product not listed on the website?\nA: Yes, you can contact us with your specific request and we’ll try to arrange it from our partner vendors if available."
+  },
+  {
+    "type": "faq",
+    "section": "Accessories",
+    "question": "Is this mouse compatible with MacBooks?",
+    "answer": "Most of our Bluetooth and USB mice are fully compatible with macOS. Please check the product specs on the listing page to confirm.",
+    "content": "Q: Is this mouse compatible with MacBooks?\nA: Most of our Bluetooth and USB mice are fully compatible with macOS. Please check the product specs on the listing page to confirm."
+  },
+  {
+    "type": "faq",
+    "section": "Accessories",
+    "question": "Do you sell mechanical keyboards?",
+    "answer": "Yes, we offer a wide range of mechanical keyboards from brands like Keychron, Razer, Logitech, and Corsair.",
+    "content": "Q: Do you sell mechanical keyboards?\nA: Yes, we offer a wide range of mechanical keyboards from brands like Keychron, Razer, Logitech, and Corsair."
+  },
+  {
+    "type": "faq",
+    "section": "Accessories",
+    "question": "Can I buy gaming accessories from Quantum Arc?",
+    "answer": "Absolutely! We offer headsets, gaming mice, RGB keyboards, controllers, and more from trusted brands like Razer, Logitech, and SteelSeries.",
+    "content": "Q: Can I buy gaming accessories from Quantum Arc?\nA: Absolutely! We offer headsets, gaming mice, RGB keyboards, controllers, and more from trusted brands like Razer, Logitech, and SteelSeries."
+  },
+  {
+    "type": "faq",
+    "section": "Returns & Refunds",
+    "question": "How can I return a product I purchased?",
+    "answer": "Go to 'My Orders', select the item, and click 'Request Return'. Follow the instructions and we’ll guide you through the return process.",
+    "content": "Q: How can I return a product I purchased?\nA: Go to 'My Orders', select the item, and click 'Request Return'. Follow the instructions and we’ll guide you through the return process."
+  },
+  {
+    "type": "faq",
+    "section": "Returns & Refunds",
+    "question": "How long does it take to receive a refund?",
+    "answer": "Refunds are processed within 3–5 business days after the returned product is received and inspected by our team.",
+    "content": "Q: How long does it take to receive a refund?\nA: Refunds are processed within 3–5 business days after the returned product is received and inspected by our team."
+  },
+  {
+    "type": "faq",
+    "section": "Returns & Refunds",
+    "question": "Are there any conditions for product returns?",
+    "answer": "Products must be returned in their original packaging with all accessories. Damage or missing items may affect refund eligibility.",
+    "content": "Q: Are there any conditions for product returns?\nA: Products must be returned in their original packaging with all accessories. Damage or missing items may affect refund eligibility."
+  },
+  {
+    "type": "faq",
+    "section": "Delivery & Shipping",
+    "question": "Do you offer international shipping?",
+    "answer": "Yes, we ship globally to over 40 countries. Shipping costs and delivery time may vary based on location.",
+    "content": "Q: Do you offer international shipping?\nA: Yes, we ship globally to over 40 countries. Shipping costs and delivery time may vary based on location."
+  },
+  {
+    "type": "faq",
+    "section": "Delivery & Shipping",
+    "question": "How much is the shipping fee?",
+    "answer": "Standard shipping is free within Pakistan. For international or expedited delivery, shipping charges are calculated at checkout.",
+    "content": "Q: How much is the shipping fee?\nA: Standard shipping is free within Pakistan. For international or expedited delivery, shipping charges are calculated at checkout."
+  },
+  {
+    "type": "faq",
+    "section": "Delivery & Shipping",
+    "question": "Can I schedule my delivery for a specific date?",
+    "answer": "Yes, you can choose a preferred delivery date during checkout, subject to courier availability in your area.",
+    "content": "Q: Can I schedule my delivery for a specific date?\nA: Yes, you can choose a preferred delivery date during checkout, subject to courier availability in your area."
+  },
+  {
+    "type": "faq",
+    "section": "Support Availability",
+    "question": "What are your customer support hours?",
+    "answer": "Our support team is available from 9:00 AM to 9:00 PM (Monday to Saturday).",
+    "content": "Q: What are your customer support hours?\nA: Our support team is available from 9:00 AM to 9:00 PM (Monday to Saturday)."
+  },
+  {
+    "type": "faq",
+    "section": "Support Availability",
+    "question": "Can I contact support via WhatsApp?",
+    "answer": "Yes, we offer support via WhatsApp. The number is listed on our Contact Us page.",
+    "content": "Q: Can I contact support via WhatsApp?\nA: Yes, we offer support via WhatsApp. The number is listed on our Contact Us page."
+  },
+  {
+    "type": "faq",
+    "section": "Support Availability",
+    "question": "Do you offer live chat support?",
+    "answer": "Yes, live chat is available on our website during business hours. Look for the chat icon in the bottom-right corner.",
+    "content": "Q: Do you offer live chat support?\nA: Yes, live chat is available on our website during business hours. Look for the chat icon in the bottom-right corner."
+  },
+  {
+    "type": "product",
+    "category": "Smartphones",
+    "name": "Apple iPhone 15 Pro Max",
+    "brand": "Apple",
+    "model": "A3109",
+    "price_usd": 1399,
+    "content": "Product: Apple iPhone 15 Pro Max\nBrand: Apple\nCategory: Smartphones\nModel: A3109\nPrice: $1399\nKey Features:\n- 6.7\" Super Retina XDR OLED display\n- Apple A17 Pro chip (3nm, 6-core CPU, 6-core GPU)\n- 8GB RAM\n- 512GB NVMe storage\n- Triple camera: 48MP (main), 12MP (ultrawide), 12MP (periscope telephoto)\n- Titanium frame, Face ID, Dynamic Island, USB-C"
+  },
+  {
+    "type": "product",
+    "category": "Smartphones",
+    "name": "Samsung Galaxy Z Fold5",
+    "brand": "Samsung",
+    "model": "SM-F946B",
+    "price_usd": 1799,
+    "content": "Product: Samsung Galaxy Z Fold5\nBrand: Samsung\nCategory: Smartphones\nModel: SM-F946B\nPrice: $1799\nKey Features:\n- 7.6\" Foldable AMOLED (120Hz) + 6.2\" Cover Display\n- Snapdragon 8 Gen 2 for Galaxy (Octa-Core)\n- 12GB RAM\n- 1TB UFS 4.0 storage\n- Triple camera: 50MP main + 12MP ultrawide + 10MP telephoto\n- Flex mode, S-Pen support, water resistance (IPX8)"
+  },
+  {
+    "type": "product",
+    "category": "Smartphones",
+    "name": "Google Pixel Fold",
+    "brand": "Google",
+    "model": "G0DZQ",
+    "price_usd": 1799,
+    "content": "Product: Google Pixel Fold\nBrand: Google\nCategory: Smartphones\nModel: G0DZQ\nPrice: $1799\nKey Features:\n- 7.6\" OLED foldable display + 5.8\" cover screen\n- Google Tensor G2 (8-core AI SoC)\n- 12GB LPDDR5 RAM\n- 512GB UFS 3.1 storage\n- Triple camera: 48MP wide + 10.8MP ultrawide + 10.8MP telephoto\n- Android 14 with exclusive Pixel AI features"
+  },
+  {
+    "type": "product",
+    "category": "Laptops",
+    "name": "ASUS ROG Strix SCAR 18 (2024)",
+    "brand": "ASUS",
+    "model": "G834JYR-XS97",
+    "price_usd": 3999,
+    "content": "Product: ASUS ROG Strix SCAR 18 (2024)\nBrand: ASUS\nCategory: Laptops\nModel: G834JYR-XS97\nPrice: $3999\nKey Features:\n- 18\" QHD+ Mini LED 240Hz Display\n- Intel Core i9-14900HX (24-core, 32-thread)\n- 64GB DDR5 RAM (5600MHz)\n- 2TB PCIe 4.0 NVMe SSD\n- NVIDIA GeForce RTX 4090 (16GB GDDR6)\n- Custom RGB lighting, liquid metal cooling"
+  },
+  {
+    "type": "product",
+    "category": "Laptops",
+    "name": "Apple MacBook Pro 16\" (M3 Max)",
+    "brand": "Apple",
+    "model": "MRX33",
+    "price_usd": 4199,
+    "content": "Product: Apple MacBook Pro 16\" (M3 Max)\nBrand: Apple\nCategory: Laptops\nModel: MRX33\nPrice: $4199\nKey Features:\n- 16.2\" Liquid Retina XDR Display (3456x2234)\n- Apple M3 Max chip (14-core CPU, 40-core GPU)\n- 64GB Unified RAM\n- 2TB SSD\n- macOS Sonoma, Studio-grade performance"
+  },
+  {
+    "type": "product",
+    "category": "Desktops",
+    "name": "Lenovo Legion Tower 7i Gen 9",
+    "brand": "Lenovo",
+    "model": "90V9CTO1WW",
+    "price_usd": 3499,
+    "content": "Product: Lenovo Legion Tower 7i Gen 9\nBrand: Lenovo\nCategory: Desktops\nModel: 90V9CTO1WW\nPrice: $3499\nKey Features:\n- Intel Core i9-14900KF (24-core, 32-thread)\n- NVIDIA RTX 4090 24GB GDDR6X\n- 64GB DDR5 6000MHz RAM\n- 2TB NVMe SSD + 4TB HDD\n- ARGB case, 850W PSU, Liquid cooling system\n- Windows 11 Pro pre-installed"
+  },
+  {
+    "type": "product",
+    "category": "Desktops",
+    "name": "Alienware Aurora R16",
+    "brand": "Dell",
+    "model": "R16-4090",
+    "price_usd": 3899,
+    "content": "Product: Alienware Aurora R16\nBrand: Dell\nCategory: Desktops\nModel: R16-4090\nPrice: $3899\nKey Features:\n- Intel Core i9-14900K (24-core)\n- NVIDIA RTX 4090 24GB\n- 64GB DDR5 RAM (6000MHz)\n- 2TB NVMe Gen4 SSD\n- Advanced airflow design, custom RGB\n- Wi-Fi 6E, Bluetooth 5.3"
+  },
+  {
+    "type": "product",
+    "category": "Graphics Cards",
+    "name": "MSI GeForce RTX 4090 SUPRIM X",
+    "brand": "MSI",
+    "model": "RTX 4090 SUPRIM X 24G",
+    "price_usd": 1999,
+    "content": "Product: MSI GeForce RTX 4090 SUPRIM X\nBrand: MSI\nCategory: Graphics Cards\nModel: RTX 4090 SUPRIM X 24G\nPrice: $1999\nKey Features:\n- NVIDIA Ada Lovelace architecture\n- 24GB GDDR6X VRAM\n- Triple-fan cooling with vapor chamber\n- PCIe 4.0, DLSS 3.5, Ray Tracing cores\n- 4 DisplayPort 1.4a + 1 HDMI 2.1a"
+  },
+  {
+    "type": "product",
+    "category": "Processors",
+    "name": "Intel Core i9-14900K",
+    "brand": "Intel",
+    "model": "BX8071514900K",
+    "price_usd": 699,
+    "content": "Product: Intel Core i9-14900K\nBrand: Intel\nCategory: Processors\nModel: BX8071514900K\nPrice: $699\nKey Features:\n- 24 cores (8 Performance + 16 Efficient)\n- 32 threads, 6.0GHz Turbo Boost\n- Raptor Lake Refresh\n- Integrated UHD 770 graphics\n- Unlocked for overclocking, LGA 1700 socket"
+  },
+  {
+    "type": "product",
+    "category": "Processors",
+    "name": "AMD Ryzen 9 7950X3D",
+    "brand": "AMD",
+    "model": "100-100000908WOF",
+    "price_usd": 699,
+    "content": "Product: AMD Ryzen 9 7950X3D\nBrand: AMD\nCategory: Processors\nModel: 100-100000908WOF\nPrice: $699\nKey Features:\n- 16 cores / 32 threads\n- Base clock: 4.2GHz, Boost up to 5.7GHz\n- 3D V-Cache for gaming performance\n- AM5 socket, PCIe 5.0 support\n- 5nm Zen 4 architecture"
+  },
+  {
+    "type": "product",
+    "category": "Smartphones",
+    "name": "Samsung Galaxy S24 Ultra (1TB)",
+    "brand": "Samsung",
+    "model": "SM-S928B/DS",
+    "price_usd": 1599,
+    "content": "Product: Samsung Galaxy S24 Ultra (1TB)\nBrand: Samsung\nCategory: Smartphones\nModel: SM-S928B/DS\nPrice: $1599\nKey Features:\n- 6.8\" WQHD+ AMOLED 120Hz\n- Snapdragon 8 Gen 3 for Galaxy\n- 12GB RAM, 1TB UFS 4.0 storage\n- Quad Camera: 200MP + 50MP + 10MP + 12MP\n- S-Pen included, Titanium frame, IP68"
+  },
+  {
+    "type": "product",
+    "category": "Accessories",
+    "name": "Logitech G Pro X Superlight 2",
+    "brand": "Logitech",
+    "model": "910-006724",
+    "price_usd": 159,
+    "content": "Product: Logitech G Pro X Superlight 2\nBrand: Logitech\nCategory: Accessories\nModel: 910-006724\nPrice: $159\nKey Features:\n- Ultra-lightweight (60g)\n- Hero 2 sensor with 32K DPI\n- 1ms Lightspeed wireless\n- USB-C rechargeable, 95-hour battery\n- Pro-grade clicks, low-latency"
+  },
+  {
+    "type": "product",
+    "category": "Accessories",
+    "name": "Razer Huntsman V3 Pro Keyboard",
+    "brand": "Razer",
+    "model": "RZ03-0498",
+    "price_usd": 249,
+    "content": "Product: Razer Huntsman V3 Pro Keyboard\nBrand: Razer\nCategory: Accessories\nModel: RZ03-0498\nPrice: $249\nKey Features:\n- Analog Optical Switches Gen-2\n- Adjustable actuation and rapid trigger\n- Aluminum top plate, RGB Chroma backlight\n- Detachable Type-C cable\n- Tournament mode switch"
+  },
+  {
+    "type": "product",
+    "category": "Accessories",
+    "name": "Apple AirPods Max",
+    "brand": "Apple",
+    "model": "A2096",
+    "price_usd": 549,
+    "content": "Product: Apple AirPods Max\nBrand: Apple\nCategory: Accessories\nModel: A2096\nPrice: $549\nKey Features:\n- High-fidelity audio with Apple H1 chips\n- Active Noise Cancellation + Transparency Mode\n- Memory foam ear cushions\n- Up to 20 hours battery life\n- Spatial audio with dynamic head tracking"
+  },
+  {
+    "type": "policy",
+    "section": "Returns Policy",
+    "policy": "At Quantum Arc, we want you to be fully satisfied with your purchase. If you are not entirely happy with a product, you may return it within 14 days of delivery.\n\nConditions:\n- The product must be in unused, original condition with all packaging, accessories, manuals, and tags intact.\n- Items showing signs of wear, damage, or unauthorized tampering will not be accepted.\n- Software, digital products, and opened sealed items (e.g., headphones, hygiene accessories) are non-returnable unless faulty.\n\nTo initiate a return, visit 'My Orders' and select the item to request a return. Our team will guide you through the pickup or drop-off process.",
+    "content": "Returns Policy:\nAt Quantum Arc, we want you to be fully satisfied with your purchase. If you are not entirely happy with a product, you may return it within 14 days of delivery.\n\nConditions:\n- The product must be in unused, original condition with all packaging, accessories, manuals, and tags intact.\n- Items showing signs of wear, damage, or unauthorized tampering will not be accepted.\n- Software, digital products, and opened sealed items (e.g., headphones, hygiene accessories) are non-returnable unless faulty.\n\nTo initiate a return, visit 'My Orders' and select the item to request a return. Our team will guide you through the pickup or drop-off process."
+  },
+  {
+    "type": "policy",
+    "section": "Refund Policy",
+    "policy": "Refunds are processed once the returned item is received and inspected by our quality team.\n\nTimeframes:\n- Standard refunds take 3–5 business days after approval.\n- Refunds are issued to the original payment method (card, PayPal, bank, etc.).\n- If you used cash on delivery, we will refund via bank transfer.\n\nNote: Shipping charges (if any) are non-refundable unless the return is due to a product defect or error on our part.",
+    "content": "Refund Policy:\nRefunds are processed once the returned item is received and inspected by our quality team.\n\nTimeframes:\n- Standard refunds take 3–5 business days after approval.\n- Refunds are issued to the original payment method (card, PayPal, bank, etc.).\n- If you used cash on delivery, we will refund via bank transfer.\n\nNote: Shipping charges (if any) are non-refundable unless the return is due to a product defect or error on our part."
+  },
+  {
+    "type": "policy",
+    "section": "Warranty Policy",
+    "policy": "Quantum Arc sells only genuine, brand-authorized products that come with official manufacturer warranties.\n\nDetails:\n- Most laptops, desktops, and smartphones include 1-year limited warranty (parts and labor).\n- Warranty coverage and duration may vary by brand and product (e.g., AppleCare, Samsung Warranty).\n- Warranties do not cover accidental damage, misuse, or unauthorized repairs.\n\nFor warranty claims, please contact us with your purchase invoice and serial number. We’ll coordinate with the brand service center on your behalf or assist in warranty registration if needed.",
+    "content": "Warranty Policy:\nQuantum Arc sells only genuine, brand-authorized products that come with official manufacturer warranties.\n\nDetails:\n- Most laptops, desktops, and smartphones include 1-year limited warranty (parts and labor).\n- Warranty coverage and duration may vary by brand and product (e.g., AppleCare, Samsung Warranty).\n- Warranties do not cover accidental damage, misuse, or unauthorized repairs.\n\nFor warranty claims, please contact us with your purchase invoice and serial number. We’ll coordinate with the brand service center on your behalf or assist in warranty registration if needed."
+  },
+  {
+    "type": "policy",
+    "section": "Shipping Policy",
+    "policy": "Quantum Arc offers fast, secure shipping across Pakistan and internationally.\n\nDomestic Shipping:\n- Free standard shipping (2–5 business days) on all orders above PKR 10,000.\n- Express shipping (1–2 days) available at extra cost.\n\nInternational Shipping:\n- We ship to 40+ countries using DHL, FedEx, and Aramex.\n- International orders may be subject to import duties or customs fees, which must be paid by the customer.\n\nAll orders are processed within 24 hours (Mon–Sat), and you will receive a tracking link once dispatched.",
+    "content": "Shipping Policy:\nQuantum Arc offers fast, secure shipping across Pakistan and internationally.\n\nDomestic Shipping:\n- Free standard shipping (2–5 business days) on all orders above PKR 10,000.\n- Express shipping (1–2 days) available at extra cost.\n\nInternational Shipping:\n- We ship to 40+ countries using DHL, FedEx, and Aramex.\n- International orders may be subject to import duties or customs fees, which must be paid by the customer.\n\nAll orders are processed within 24 hours (Mon–Sat), and you will receive a tracking link once dispatched."
+  },
+  {
+    "type": "policy",
+    "section": "Payment Methods",
+    "policy": "We support multiple secure payment methods for your convenience:\n\n- Credit/Debit Cards (Visa, MasterCard, UnionPay)\n- PayPal (International orders)\n- Bank Transfers (Manual payment)\n- EasyPaisa / JazzCash (Pakistan only)\n- Cash on Delivery (limited to select cities, max order PKR 50,000)\n\nAll payments are encrypted and processed via secure, PCI-compliant gateways.",
+    "content": "Payment Methods:\nWe support multiple secure payment methods for your convenience:\n\n- Credit/Debit Cards (Visa, MasterCard, UnionPay)\n- PayPal (International orders)\n- Bank Transfers (Manual payment)\n- EasyPaisa / JazzCash (Pakistan only)\n- Cash on Delivery (limited to select cities, max order PKR 50,000)\n\nAll payments are encrypted and processed via secure, PCI-compliant gateways."
+  },
+  {
+    "type": "policy",
+    "section": "Customer Support Hours",
+    "policy": "Our customer care team is available to assist you:\n\n- Monday to Saturday: 9:00 AM – 9:00 PM (Pakistan Time)\n- Sunday: Closed (Emergency email support only)\n\nSupport Channels:\n- Live Chat (on website)\n- Email: support@quantumarc.tech\n- WhatsApp Business\n- Call Center: +92-xxx-xxxxxxx\n\nWe aim to respond to all queries within 2 hours during business hours.",
+    "content": "Customer Support Hours:\nOur customer care team is available to assist you:\n\n- Monday to Saturday: 9:00 AM – 9:00 PM (Pakistan Time)\n- Sunday: Closed (Emergency email support only)\n\nSupport Channels:\n- Live Chat (on website)\n- Email: support@quantumarc.tech\n- WhatsApp Business\n- Call Center: +92-xxx-xxxxxxx\n\nWe aim to respond to all queries within 2 hours during business hours."
+  },
+  {
+    "type": "policy",
+    "section": "Technical Support Policy",
+    "policy": "If you experience technical issues with a product, our in-house support team is here to help.\n\nSteps:\n1. Contact support and describe your issue in detail.\n2. Our team may guide you through basic diagnostics.\n3. If unresolved, we’ll schedule pickup for inspection or connect you to an authorized service center.\n\nWe also assist with:\n- Firmware/software updates\n- Driver installations\n- Warranty coordination\n\nSupport is free for products purchased from Quantum Arc and within warranty.",
+    "content": "Technical Support Policy:\nIf you experience technical issues with a product, our in-house support team is here to help.\n\nSteps:\n1. Contact support and describe your issue in detail.\n2. Our team may guide you through basic diagnostics.\n3. If unresolved, we’ll schedule pickup for inspection or connect you to an authorized service center.\n\nWe also assist with:\n- Firmware/software updates\n- Driver installations\n- Warranty coordination\n\nSupport is free for products purchased from Quantum Arc and within warranty."
+  }
+]
