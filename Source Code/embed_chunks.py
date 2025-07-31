@@ -5,8 +5,8 @@ from tqdm import tqdm
 from sentence_transformers import SentenceTransformer
 
 # === Paths ===
-CHUNKS_PATH = Path("Assets/chunks.json")
-EMBEDDINGS_PATH = Path("Assets/embedded_chunks.pkl")
+CHUNKS_PATH = Path("Source Code/Assets/chunks.json")
+EMBEDDINGS_PATH = Path("Source Code/Assets/embedded_chunks.pkl")
 
 # === Load chunks ===
 with open(CHUNKS_PATH, "r", encoding="utf-8") as f:
