@@ -4,7 +4,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 from pathlib import Path
 
 # === Load embedded chunks from disk ===
-EMBEDDED_CHUNKS_PATH = Path("Assets/embedded_chunks.pkl")
+EMBEDDED_CHUNKS_PATH = Path("Source Code/Assets/embedded_chunks.pkl")
 with open(EMBEDDED_CHUNKS_PATH, "rb") as f:
     embedded_chunks = pickle.load(f)
 
