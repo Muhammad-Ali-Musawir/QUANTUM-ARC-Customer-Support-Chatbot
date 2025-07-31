@@ -10,9 +10,8 @@ from typing import Generator, Tuple  # Add for type hinting
 FALLBACK_TRIGGER_PHRASE = "Sorry, I couldn’t find an answer to our support database."
 
 # Load API key and model from .env
-load_dotenv("Assets/.env")
-OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
-OPENROUTER_MODEL = os.getenv("OPENROUTER_MODEL")
+OPENROUTER_API_KEY = st.secrets["OPENROUTER_API_KEY"]
+OPENROUTER_MODEL = st.secrets["OPENROUTER_MODEL"]
 
 def query_llm(messages: list, max_retries: int = 3, retry_delay: int = 5, stream: bool = False) -> Tuple[bool, str | Generator[str, None, None]]:
     """
