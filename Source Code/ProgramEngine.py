@@ -105,8 +105,8 @@ def save_unanswered_question(entry: dict):
     entry["timestamp"] = datetime.utcnow().isoformat()
     file_path = "Source Code/Assets/unanswered_queries.jsonl"
     
-    # # Ensure Assets folder exists
-    # os.makedirs("Assets", exist_ok=True)
+    # Ensure Assets folder exists
+    os.makedirs("Assets", exist_ok=True)
     
     print("📝 Saving fallback query:", entry)
     try:
