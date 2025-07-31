@@ -4,6 +4,10 @@
 
 ---
 
+> 💡 Without Setup, this code will not work. Follow the Setup below to make this code working.
+
+---
+
 ## 🚀 Features
 
 - 🔍 **Strictly Context-Based Answers**  
@@ -62,7 +66,33 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 pip install -r requirements.txt
 ```
 
-### 5. Prepare Your Data
+### 5. Paths Correction
+
+1. In any of the files where you see the paths, **Remove** `Source Code/` from there.
+for example,
+From:
+```
+Source Code/Assets/logo.png
+```
+To:
+```
+Assets/logo.png
+```
+
+2. In the API and Model calling in `llm_interface.py`
+Replace:
+```
+OPENROUTER_API_KEY = st.secrets["OPENROUTER_API_KEY"]
+OPENROUTER_MODEL = st.secrets["OPENROUTER_MODEL"]
+```
+To this:
+```
+load_dotenv("Assets/.env")
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
+OPENROUTER_MODEL = os.getenv("OPENROUTER_MODEL")
+```
+
+### 6. Prepare Your Data
 
 Edit these files inside `Assets/` according to your store info:
 
@@ -74,21 +104,21 @@ Edit these files inside `Assets/` according to your store info:
 
 Maintain the same format.
 
-### 6. Preprocess the Data
+### 7. Preprocess the Data
 
 ```
 python preprocess_chunks.py
 ```
 ✅ This generates `chunks.json`.
 
-### 7. Embed the Chunks
+### 8. Embed the Chunks
 
 ```
 python embed_chunks.py
 ```
 ✅ This generates `embedded_chunks.pkl`.
 
-### 8. Run the Chatbot
+### 9. Run the Chatbot
 
 Option 1
 ```
