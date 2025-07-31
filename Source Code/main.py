@@ -14,11 +14,11 @@ def get_base64_image(image_path):
 st.set_page_config(
     page_title="Quantum Arc Support Chatbot",
     layout="centered",
-    page_icon="Assets/icon.ico"
+    page_icon="Source Code/Assets/icon.ico"
 )
 
 # Logo
-logo_base64 = get_base64_image("Assets/logo.png")
+logo_base64 = get_base64_image("Source Code/Assets/logo.png")
 st.markdown(
     f"""
     <div style="display: flex; align-items: center; white-space: nowrap; overflow: hidden;">
